@@ -1,0 +1,8 @@
+2020-10-14 09:17:19,433 INFO (StartupInfoLogger.java:48)- Starting PremssionApplication on PC-20200530ZGWW with PID 3320 (started by Administrator in E:\BaiduNetdiskDownload\macbook备份\macbook备份\springboot-shrio-jpa)
+2020-10-14 09:17:19,442 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.3.RELEASE, Spring v4.3.8.RELEASE
+2020-10-14 09:17:19,442 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2020-10-14 09:17:30,865 INFO (StartupInfoLogger.java:57)- Started PremssionApplication in 11.864 seconds (JVM running for 15.039)
+2020-10-14 09:27:41,355 INFO (StartupInfoLogger.java:48)- Starting PremssionApplication on PC-20200530ZGWW with PID 4172 (started by Administrator in E:\BaiduNetdiskDownload\macbook备份\macbook备份\springboot-shrio-jpa)
+2020-10-14 09:27:41,358 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.3.RELEASE, Spring v4.3.8.RELEASE
+2020-10-14 09:27:41,359 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2020-10-14 09:27:52,851 INFO (StartupInfoLogger.java:57)- Started PremssionApplication in 12.114 seconds (JVM running for 13.926)
