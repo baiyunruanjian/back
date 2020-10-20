@@ -65,7 +65,7 @@ public class MouldServiceImpl implements MouldService {
 
     @Override
     public R update(Mould mould) {
-        mould.setUpdateTime(new Date());
+//        mould.setUpdateTime(new Date());
         Mould softwareSave = mouldRepository.save(mould);
         log.info("软件表修改：softwareSave = {}"+softwareSave);
         return RUtil.success();

@@ -13,3 +13,25 @@
 2020-10-20 10:19:52,291 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.3.RELEASE, Spring v4.3.8.RELEASE
 2020-10-20 10:19:52,292 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
 2020-10-20 10:20:04,840 INFO (StartupInfoLogger.java:57)- Started PremssionApplication in 13.24 seconds (JVM running for 15.761)
+2020-10-20 11:39:00,254 INFO (StartupInfoLogger.java:48)- Starting PremssionApplication on PC-20200530ZGWW with PID 8652 (started by Administrator in E:\BaiduNetdiskDownload\macbook备份\macbook备份\back)
+2020-10-20 11:39:00,258 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.3.RELEASE, Spring v4.3.8.RELEASE
+2020-10-20 11:39:00,259 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2020-10-20 11:39:11,498 INFO (StartupInfoLogger.java:57)- Started PremssionApplication in 11.885 seconds (JVM running for 13.652)
+2020-10-20 13:33:43,698 INFO (StartupInfoLogger.java:48)- Starting PremssionApplication on PC-20200530ZGWW with PID 10748 (started by Administrator in E:\BaiduNetdiskDownload\macbook备份\macbook备份\back)
+2020-10-20 13:33:43,702 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.3.RELEASE, Spring v4.3.8.RELEASE
+2020-10-20 13:33:43,703 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2020-10-20 13:33:55,950 INFO (StartupInfoLogger.java:57)- Started PremssionApplication in 13.028 seconds (JVM running for 14.942)
+2020-10-20 13:34:43,754 INFO (MouldServiceImpl.java:70)- 软件表修改：softwareSave = {}Mould(id=10, name=null, mouldName=null, factoryName=null, phone=null, status=null, jiemoPeople=null, jiemoPhone=null, jiaomoOrder=null, remark=null, jiaomoTime=null, jiemoTime=null, updateTime=Tue Oct 20 13:34:43 CST 2020, createTime=null)
+2020-10-20 13:35:46,324 INFO (MouldServiceImpl.java:70)- 软件表修改：softwareSave = {}Mould(id=10, name=null, mouldName=模具1, factoryName=null, phone=null, status=null, jiemoPeople=null, jiemoPhone=null, jiaomoOrder=null, remark=null, jiaomoTime=null, jiemoTime=null, updateTime=Tue Oct 20 13:35:46 CST 2020, createTime=null)
+2020-10-20 13:37:33,603 INFO (MouldServiceImpl.java:70)- 软件表修改：softwareSave = {}Mould(id=10, name=null, mouldName=模具1, factoryName=null, phone=null, status=null, jiemoPeople=null, jiemoPhone=null, jiaomoOrder=null, remark=null, jiaomoTime=null, jiemoTime=null, updateTime=Tue Oct 20 13:37:33 CST 2020, createTime=Thu Oct 08 08:00:00 CST 2020)
+2020-10-20 13:42:21,371 INFO (StartupInfoLogger.java:48)- Starting PremssionApplication on PC-20200530ZGWW with PID 10484 (started by Administrator in E:\BaiduNetdiskDownload\macbook备份\macbook备份\back)
+2020-10-20 13:42:21,375 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.3.RELEASE, Spring v4.3.8.RELEASE
+2020-10-20 13:42:21,375 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2020-10-20 13:42:32,276 INFO (StartupInfoLogger.java:57)- Started PremssionApplication in 11.36 seconds (JVM running for 12.985)
+2020-10-20 13:42:34,857 INFO (MouldServiceImpl.java:70)- 软件表修改：softwareSave = {}Mould(id=10, name=null, mouldName=模具1, factoryName=null, phone=null, status=null, jiemoPeople=null, jiemoPhone=null, jiaomoOrder=null, remark=null, jiaomoTime=null, jiemoTime=null, updateTime=Thu Oct 31 00:08:09 CST 2019, createTime=null)
+2020-10-20 13:42:48,190 INFO (MouldServiceImpl.java:70)- 软件表修改：softwareSave = {}Mould(id=10, name=null, mouldName=模具1, factoryName=null, phone=null, status=null, jiemoPeople=null, jiemoPhone=null, jiaomoOrder=null, remark=null, jiaomoTime=null, jiemoTime=null, updateTime=null, createTime=Thu Oct 31 00:08:09 CST 2019)
+2020-10-20 13:43:43,005 INFO (StartupInfoLogger.java:48)- Starting PremssionApplication on PC-20200530ZGWW with PID 8560 (started by Administrator in E:\BaiduNetdiskDownload\macbook备份\macbook备份\back)
+2020-10-20 13:43:43,010 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.3.RELEASE, Spring v4.3.8.RELEASE
+2020-10-20 13:43:43,011 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2020-10-20 13:43:54,192 INFO (StartupInfoLogger.java:57)- Started PremssionApplication in 11.876 seconds (JVM running for 13.71)
+2020-10-20 13:43:59,911 INFO (MouldServiceImpl.java:70)- 软件表修改：softwareSave = {}Mould(id=10, name=null, mouldName=模具1, factoryName=null, phone=null, status=null, jiemoPeople=null, jiemoPhone=null, jiaomoOrder=null, remark=null, jiaomoTime=null, jiemoTime=null, updateTime=null, createTime=Thu Oct 08 09:03:37 CST 2020)
