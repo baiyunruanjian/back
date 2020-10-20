@@ -19,4 +19,6 @@ public interface MouldService {
 
     R update(Mould Mould);
 
+    R delete(Integer id);
+
 }

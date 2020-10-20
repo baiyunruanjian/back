@@ -70,4 +70,10 @@ public class MouldServiceImpl implements MouldService {
         log.info("软件表修改：softwareSave = {}"+softwareSave);
         return RUtil.success();
     }
+
+    @Override
+    public R delete(Integer id) {
+        mouldRepository.delete(id);
+        return RUtil.success();
+    }
 }

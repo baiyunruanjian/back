@@ -28,7 +28,7 @@ public class MouldController {
     MouldService mouldService;
 
     /**
-     * 新增软件
+     * 新增模具
      * @param mould
      * @return
      */
@@ -41,7 +41,7 @@ public class MouldController {
 
 
     /**
-     * 查询软件列表
+     * 查询模具列表
      * @param page
      * @param size
      * @return
@@ -56,7 +56,7 @@ public class MouldController {
     }
 
     /**
-     * 查询软件详情
+     * 查询模具详情
      * @param id
      * @return
      */
@@ -69,7 +69,7 @@ public class MouldController {
     }
 
     /**
-     * 更新软件
+     * 更新模具
      * @param mould
      * @param bindingResult
      * @return
@@ -82,6 +82,18 @@ public class MouldController {
         Assert.isNull(mould.getId(),"id不能为空");
 
         return mouldService.update(mould);
+    }
+
+
+    /**
+     * 删除模具
+     * @param id
+     * @return
+     */
+//    @RequiresPermissions("sys:user:delete")
+    @DeleteMapping("/delete/{id}")
+    public R deleteUser(@PathVariable Integer id){
+        return mouldService.delete(id);
     }
 
 }
